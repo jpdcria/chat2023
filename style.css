@@ -1,0 +1,15 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+.caixadelogin{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    display: block;
+}
